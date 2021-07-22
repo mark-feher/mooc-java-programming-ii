@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1865a21d-833e-44eb-becd-19b25a070b31" name="Default Changelist" comment="" />
+    <list default="true" id="cd997e0f-0a6a-4fe4-b922-cd84b0f772b6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +13,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1vfFxl2AlDW3VLWJLHGKWajXgfQ" />
+  <component name="ProjectId" id="1vfH6aKTvBdCb2dRSHIqYD528aN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -25,11 +26,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1865a21d-833e-44eb-becd-19b25a070b31" name="Default Changelist" comment="" />
-      <created>1626945485296</created>
+      <changelist id="cd997e0f-0a6a-4fe4-b922-cd84b0f772b6" name="Default Changelist" comment="" />
+      <created>1626946050470</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1626945485296</updated>
+      <updated>1626946050470</updated>
     </task>
     <servers />
   </component>
